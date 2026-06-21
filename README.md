@@ -38,5 +38,3 @@ CodeAlpha_FAQChatbot/
 ## Author
 
 **Aarthi PS**
-
-Artificial Intelligence Intern at CodeAlpha
